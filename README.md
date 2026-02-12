@@ -155,5 +155,3 @@ Dengan kemampuan deteksi **81% Recall**, model ini memberikan landasan kuat untu
     * Lakukan strategi *overbooking* yang terukur pada tanggal-tanggal dengan prediksi pembatalan tinggi, sehingga tingkat hunian kamar bisa dimaksimalkan mendekati 100%.
 3.  **Loyalty Program:**
     * Berikan layanan prioritas bagi tamu yang meminta lahan parkir atau memiliki banyak *special request*, karena mereka adalah segmen tamu yang paling loyal dan minim risiko batal.
-
-└── README.md                # Project documentation
