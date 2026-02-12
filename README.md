@@ -156,6 +156,4 @@ Dengan kemampuan deteksi **81% Recall**, model ini memberikan landasan kuat untu
 3.  **Loyalty Program:**
     * Berikan layanan prioritas bagi tamu yang meminta lahan parkir atau memiliki banyak *special request*, karena mereka adalah segmen tamu yang paling loyal dan minim risiko batal.
 
-│   └── images/              # Gambar visualisasi (ROC, Confusion Matrix, SHAP)
-├── requirements.txt         # Dependencies library
 └── README.md                # Project documentation
